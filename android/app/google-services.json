@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40614922755",
+    "project_id": "flutter--clone-413b4",
+    "storage_bucket": "flutter--clone-413b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40614922755:android:45b7df073cd88b40dfdc36",
+        "android_client_info": {
+          "package_name": "judedaniel.org.amazon_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40614922755-o3ajn3krjker4t04qfd7ok6shroq7m11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3mHTwLU79u8iLzsN8aVz1OmenQNrMHX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40614922755-o3ajn3krjker4t04qfd7ok6shroq7m11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
